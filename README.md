@@ -69,15 +69,6 @@ requirements.txt
 
 ## Installation
 
-Clone the repository:
-
-git clone
-https://github.com/yourusername/heart-disease-logistic-regression
-
-Install dependencies:
-
-pip install -r requirements.txt
-
 Required libraries: - pandas - numpy - matplotlib - seaborn -
 scikit-learn - ucimlrepo
 
